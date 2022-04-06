@@ -1,0 +1,3 @@
+1º copie as pastas ISO do windowns 
+2º vá na pasta sourse e cole o arquivo TXT EI.CFG. 
+3º salve e gere a ISO com a modificação para o pen drive. 
